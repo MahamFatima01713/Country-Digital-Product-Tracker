@@ -1,4 +1,4 @@
-# Country-Digital-Product-Tracker
+# Country-Digital-Project-Tracker
 A full-stack web application for tracking digital projects across multiple
 countries in one place. Coordination teams working on national digital, data
 and AI initiatives usually keep project updates in separate spreadsheets.
